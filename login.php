@@ -39,7 +39,7 @@ if (isset($_SESSION['level'])){
               <h6 class="fw-light">Sign in to continue.</h6>
               <div class="mb-2" id="failed">
                 <button type="button" style="width: 100%; text-align: left;" class="btn btn-danger btn-block">
-                  <i class="ti-close me-2" style="font-weight:bold"></i>Sorry, Username or Password failed
+                  <i class="ti-close me-2" style="font-weight:bold"></i>Sorry, Username or Password faileds
                   <span style="float: right" id="count">no</span>
                 </button>
               </div>
